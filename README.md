@@ -1,2 +1,2 @@
 # RandMonitoring
-Checking on global balance using ROC type curve based on propensity scores.
+This repository contains code used in simulations and analysis for the paper "A Practical Method to Monitor Randomization Procedures in Clinical Trials".
